@@ -9,9 +9,6 @@
   background-color: #4b4b4b;
 }
 
-.expense-date {
-  color: rgb(215, 187, 255);
-}
 
 .expense-item__description {
   display: flex;
